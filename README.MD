@@ -1,4 +1,4 @@
-In the video we are going to create a programming environment from the 'environment.yml' file included in the code repository. We will do it with the command:
+To create a programming environment from the 'environment.yml' file included in the code repository. We will do it with the command:
 
 `conda env create -n <environment name> -f environment.yml`
 
